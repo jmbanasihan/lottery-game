@@ -34,6 +34,6 @@ This is a simple mini game using vanilla JavaScript. I created this while still 
 
 <p align='center'>For inquiries, contact me via<a href = "mailto:janimargaret09@gmail.com"> Gmail</a> or over on <a href="https://www.linkedin.com/in/janiel-banasihan/">LinkedIn</a>.</p>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+<p align='center'><i>Stay awesome!</i></p>
 
 <br>
