@@ -1,6 +1,8 @@
 ![banner](banner.gif)
 <h1 align='center'> Hey there! :wave:</h1>
 
+<br>
+
 ## Introduction
 <br>
 <p align='left'>
@@ -26,10 +28,12 @@ This is a simple mini game using vanilla JavaScript. I created this while still 
 <a><img src="https://img.shields.io/github/followers/jmbanasihan?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-<p align='left'>You can check it out<a href="https://jmbanasihan.github.io/sign-in-page/public/"> here</a>.</p> 
+<p align='left'>You can check it out<a href="https://jmbanasihan.github.io/lottery-game/"> here</a>.</p> 
 
 <br><hr>
 
 <p align='center'>For inquiries, contact me via<a href = "mailto:janimargaret09@gmail.com"> Gmail</a> or over on <a href="https://www.linkedin.com/in/janiel-banasihan/">LinkedIn</a>.</p>
 
 <h1 align='center'><i>Stay awesome!</i></h1>
+
+<br>
