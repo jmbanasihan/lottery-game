@@ -2,7 +2,7 @@
 
 <br>
 
-<h1 align='center'> Hey there! :wave:</h1>
+<h1 align='center'> What's up :wave:</h1>
 
 <br>
 
