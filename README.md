@@ -6,14 +6,14 @@
 
 <br>
 
-## Introduction
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Introduction
 <br>
 <p align='left'>
 This is a simple mini game using vanilla JavaScript. I created this while still learning JavaScript so I just played with some codes.
 </p>
 <br>
 
-## Technologies and Tools
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> Technologies and Tools
 
 <br>
 
@@ -21,7 +21,7 @@ This is a simple mini game using vanilla JavaScript. I created this while still 
 
 <br>
 
-## Demo 
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Demo 
 
 ![banner](demo.gif)
 
